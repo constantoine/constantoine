@@ -1,6 +1,6 @@
 [![she/her pronouns](https://img.shields.io/badge/pronouns-she%2Fher-ff69b4)](https://pronoun.is/she/her)
 
-I'm Cléo, a French developper!
+I'm Cléo, a 22yo French developper!
 
 My main languages are [Go](https://go.dev/) and [Rust](https://www.rust-lang.org)! Sometimes I use Java for minecraft [plugins](https://github.com/constantoine/tombstone), to remind me not to take on Java jobs.
 
