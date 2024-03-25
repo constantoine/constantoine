@@ -1,11 +1,11 @@
 
 # [![she/her pronouns](https://img.shields.io/badge/pronouns-she%2Fher-ff69b4)](https://pronoun.is/she/her) 🏳️‍⚧️
 
-I'm Cléo, a 23yo French developper!
+I'm Cléo, a 24yo French developper!
 
 My main languages are [Go](https://go.dev/) and [Rust](https://www.rust-lang.org)! Sometimes I use Java for minecraft [plugins](https://github.com/constantoine/tombstone), to remind me not to take on Java jobs.
 
-Working in Edtech and Fintech the day, and working on personnal projects (some of which I even finished!) at night. [totp-rs](https://github.com/constantoine/totp-rs) is one of those projects of which I'm proud.
+Working in Edtech, Fintech and Cloud the day, and working on personnal projects (some of which I even finished!) at night. [totp-rs](https://github.com/constantoine/totp-rs) is one of those projects which I'm proud of.
 
 ### Languages I can code in:
 - Go
